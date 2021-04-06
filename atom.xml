@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bondrew.github.io</id>
     <title>无术不学</title>
-    <updated>2021-04-06T01:22:57.121Z</updated>
+    <updated>2021-04-06T01:26:20.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bondrew.github.io"/>
     <link rel="self" href="https://bondrew.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://bondrew.github.io/images/avatar.png</logo>
     <icon>https://bondrew.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 无术不学</rights>
+    <entry>
+        <title type="html"><![CDATA[现代化与可视化的《诗经》]]></title>
+        <id>https://bondrew.github.io/post/xian-dai-hua-yu-ke-shi-hua-de-lesslessshi-jing-greatergreater/</id>
+        <link href="https://bondrew.github.io/post/xian-dai-hua-yu-ke-shi-hua-de-lesslessshi-jing-greatergreater/">
+        </link>
+        <updated>2021-04-06T01:25:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>《诗经植物图鉴》读书感慨。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>《诗经植物图鉴》读书感慨。</p>
+<!-- more -->
+<p>《诗经》是中国最早的诗歌总集，也是早期出版业不发达的情况下普及率最高的文学教材和读物。诗经典型的“赋比兴”手法为动物/植物等附加的象征意义很多成为后世的惯例。比如，一提杨柳，那必是“依依”的且象征离别。</p>
+<p>诗经的时代距离我们太过于久远，语言的进化让它和我们产生了严重个隔阂，以至于没有译文和注释的帮助，对于大多数篇章，我们根本搞不清楚其究竟想表达什么。或许有人说了，读诗经，何必追求弄清楚，但是那优美的韵律，就足以使人陶醉其中了！暂不论这个所谓的“韵律”——当然值得是现在的普通话——和当时的发音有着多么大的差异，这都无疑是一种盲目的庸俗化看法，并不是真的热爱诗经的人的应有视角。我们想真正意义上透彻的欣赏它的美，就要透彻全面的了解它。</p>
+<p>在欣赏诗经的韵律/美感之前，一般是扫平句读/词义/逻辑和修辞等基本词句层面的内容。这其中有一个问题，就是很多名词，用文字解释了半天，我们还是不清楚它究竟是什么东西。比如，解释“荇菜”为：一种野菜，生于河边。看似解释了，但并没有减少我们的迷茫。作为一种野菜的“荇菜”究竟是一种什么样子的菜，在它的映照下能引起男女之间的“寤寐思服”？欣赏诗歌不是有一种“浸入式”的方式么，如果不知道背景/情景是一个什么样子的，我们很难体会诗中的感情是怎么来的。</p>
+<p>首先，我们需要知道诗经中的名词事物现在我们叫它什么；其次，我们想看到这个事物究竟是一个什么样子。这两点，在现在的条件下都能得到满足——只要有人愿意去做。但是，做起来可能也不会很容易，因为这可能会涉及到跨学科的多领域合作问题。看似文学的东西，可能需要的是植物学的物种识别，可能需要的是动物学的行为证明，也可能需要的是地理学的历史视角等等。然而，一旦这个工作做了，我们——纯粹作为一个文学爱好者——看到的诗经可能就很不一样了。</p>
+<p>今天偶然翻看了《诗经植物图鉴》，作者是一个爱好古典文学的生物学者加一个植物摄像爱好者。书本给我们呈现的恰恰就是上述两点。尽管本书在诗的意义体会上还挖掘不够深刻，但这个尝试非常有意义。</p>
+<p>当我看到“卷耳”就是老家地里到处都是的苍耳，知道“芣苢”是车前草，“蘩”是白蒿，“甘棠”就是杜梨子，“蒹葭”就是芦苇，“菲”原来是萝卜等等这些的时候，我觉得我曾经离诗经的意境很近：小时候绕着村子跑来跑去的时候，这些不过是我随手薅着玩儿的东西。——神秘感顿时消失了。</p>
+<p>再把这些植物带入到诗中，重新吟度诗的韵味、思考诗的意境时，确实感到不一样了：我能想象我处在这样一个情境下，视线所及，看到这些植物，在想想自己的心里，会是一个什么样的感觉。我甚至觉得曾经不屑的那些先儒的解读也并非空穴来风。我读到的诗经中的诗，也不再是支离破碎的想象。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[浅谈苏轼的“鸿”韵]]></title>
         <id>https://bondrew.github.io/post/qian-tan-su-shi-de-hong-yun/</id>
