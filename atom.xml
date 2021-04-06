@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bondrew.github.io</id>
     <title>无术不学</title>
-    <updated>2021-04-06T00:59:11.487Z</updated>
+    <updated>2021-04-06T01:00:29.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bondrew.github.io"/>
     <link rel="self" href="https://bondrew.github.io/atom.xml"/>
@@ -10,6 +10,57 @@
     <logo>https://bondrew.github.io/images/avatar.png</logo>
     <icon>https://bondrew.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 无术不学</rights>
+    <entry>
+        <title type="html"><![CDATA[矛盾修辞法]]></title>
+        <id>https://bondrew.github.io/post/mao-dun-xiu-ci-fa/</id>
+        <link href="https://bondrew.github.io/post/mao-dun-xiu-ci-fa/">
+        </link>
+        <updated>2021-04-06T00:59:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>矛盾修辞法（oxymoron）是一个非常有意思的修辞方法，不用过多的解释，仅用两个不相调和的词表达一个概念，即洋溢出一种强烈的“出人意料、引人入胜”的修辞效果。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>矛盾修辞法（oxymoron）是一个非常有意思的修辞方法，不用过多的解释，仅用两个不相调和的词表达一个概念，即洋溢出一种强烈的“出人意料、引人入胜”的修辞效果。</p>
+<!-- more -->
+<p>先说英文的。最典型的就是一个形容词和名词进行搭配，比如：</p>
+<blockquote>
+<p>original copy，原创抄袭。我觉得这是表扬腾讯的。<br>
+true lies，真实的谎言。</p>
+</blockquote>
+<p>当然还有其他结构的，比如：</p>
+<blockquote>
+<p>alone together<br>
+“Now, then...”</p>
+</blockquote>
+<p>再来一些，仔细品味：</p>
+<blockquote>
+<p>genuine imitation<br>
+silent scream<br>
+living dead<br>
+new classic<br>
+sweet sorrow<br>
+exact estimate<br>
+peace force<br>
+pretty ugly<br>
+civil servant<br>
+deliberate mistake</p>
+</blockquote>
+<p>这里有一个完整的列表：http://www.oxymoronlist.com/</p>
+<p>我们汉语中的这种修辞用法更是可随手拈来，层出不穷。特别是哲学著作和诗词作品中，用于阐述对立统一的概念或营造氛围、境界。如：</p>
+<blockquote>
+<p>道常无为而无不为——《老子·三十七章》<br>
+置之死地而后生——兵法</p>
+</blockquote>
+<p>由老子一派开创的”无为无不为“句型和思想对后世影响很大。此外，中国文化的另一个重要组成部分——佛学——也大量采用这种修辞，以达到启发、开化众生的目的。</p>
+<p>文学作品中的，如：</p>
+<blockquote>
+<p>冗繁削尽留清瘦，画到生时是熟时——郑板桥《题画竹》<br>
+宝钗笑道：“你的绰号早有了，‘无事忙’三个字恰当得很。”——《红楼梦》<br>
+为了忘却的记念——鲁迅<br>
+那一声珍重里有甜蜜的忧愁——《徐志摩·赠日本女郎》。</p>
+</blockquote>
+<p>徐志摩熟悉很多英文经典，他的甜蜜的忧愁是不是从sweet sorrow而来不得而知。不过，另如朱自清的“他细味他俩最近的几页可爱的历史。想一节伤一回心，但他宁愿这样甜蜜的伤心。”可见sweet sorrow已经深入人心啦！</p>
+<p>总结起来，不论英文还是中文，经常使用这种矛盾修辞法，有助于逼格的迅速提高，写出的文章会让人觉得很有内涵，思想也会让人以为高深莫测。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020年，读了100来本书]]></title>
         <id>https://bondrew.github.io/post/2020-nian-du-le-100-lai-ben-shu/</id>
